@@ -7,7 +7,14 @@ import 'controllers/customer_controller.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+      options: FirebaseOptions(
+        apiKey: 'AIzaSyAqdo66tpbQHbkznwX2k7U2A6dwHiSY5NI',
+        appId: '1:749270650310:android:a6f52592fd01397c5336c7',
+        messagingSenderId: '749270650310',
+        projectId: 'milk-mapper',
+        storageBucket: 'milk-mapper.appspot.com',
+  ));
   Get.put(CustomerController());
   runApp(const MyApp());
 }

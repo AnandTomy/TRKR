@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749270650310",
+    "project_id": "milk-mapper",
+    "storage_bucket": "milk-mapper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749270650310:android:da36877e2f439a805336c7",
+        "android_client_info": {
+          "package_name": "com.example.aah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqnB7facHsUyCLl8lEo0lPz4KJxImnoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749270650310:android:a6f52592fd01397c5336c7",
+        "android_client_info": {
+          "package_name": "com.example.anand_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqnB7facHsUyCLl8lEo0lPz4KJxImnoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
