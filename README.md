@@ -1,7 +1,5 @@
 # anand_test
-
-A new Flutter project.
-
+This Flutter app serves as a milk price tracker and customer management tool. It allows users to input the current price of milk and keeps track of customers who need to pay for their milk orders. The backend is powered by Firebase, providing a reliable and scalable solution for data storage and authentication.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
